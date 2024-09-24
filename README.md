@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am Kelvis Duank</h1>
+<h2 align="center">Hello! I am Kelvis Duank</h2>
 <h3 align="center">Dev front-end and back-end.</h3>
 
 - 🔭 I’m currently studying at [Programadores do Amanhã](https://br.linkedin.com/school/programadoresdoamanha/)
