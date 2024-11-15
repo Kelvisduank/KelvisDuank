@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I am Kelvis Duank</h2>
 <h3 align="center">Dev front-end and back-end.</h3>
 
-- 🔭 I’m currently studying at [Programadores do Amanhã](https://br.linkedin.com/school/programadoresdoamanha/)
+- 🔭 I’m currently studying at [Programadores do Amanhã](https://br.linkedin.com/school/programadoresdoamanha/) & [Instituto Federal de ciência e educação Goiano - Campus Urutaí](https://www.linkedin.com/school/if-goiano/)
 
 - 🌱 I’m currently learning **Java, Js, PHP, Html, CSS, SQL,**
 
