@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Dev front-end**
 
-- 👨‍💻 All of my projects are available at [kelvisduankxkb.netlify.app](kelvisduankxkb.netlify.app)
+- 👨‍💻 All of my projects are available at [kelvisduankxkb.netlify.app](https://kelvisduankxkb.netlify.app/)
 
 - 📫 How to reach me **kelvislinkedin@gmail.com**
 
