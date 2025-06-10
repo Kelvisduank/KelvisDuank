@@ -40,7 +40,7 @@
 ## 🧠 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**KelvisDuank**&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvisDuank&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 👁️ Visualizações do perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=**KelvisDuank**&color=blue" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=KelvisDuank&color=blue" alt="Visualizações do perfil" />
 </p>
 
 ---
